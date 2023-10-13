@@ -10,7 +10,7 @@
   background-color: white;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: baseline;
   font-family: verdana, arial, helvetica, sans-serif;
 }
 
@@ -62,7 +62,7 @@
   width: 0%;
   top: 0;
   left: -40px;
-  transform: skewX(180deg);
+  /* transform: skewX(180deg); */
   background-color: red;
   z-index: -1;
   transition: all 1s;
